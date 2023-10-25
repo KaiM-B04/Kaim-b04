@@ -1,4 +1,6 @@
-### Hi there 👋
+### Heisann! 
+
+Jeg er en ivrig og kreativ koder, og gleder meg til å lære nye ting!
 
 <!--
 **KaiM-B04/Kaim-b04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
