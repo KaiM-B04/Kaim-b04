@@ -1,4 +1,4 @@
-<h2>Heisann! Mitt navn er Kai, og jeg er en ivrig og kreativ koder som elsker utfordringer og å lære nye ting!</h2> 
+<h2>Heisann! <br>Mitt navn er Kai, og jeg er en ivrig og kreativ koder som elsker utfordringer og å lære nye ting!</h2> 
 
 <img align='left' src="profilepic-color-thumb.webp" width="180" height="230">
 
