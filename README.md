@@ -5,7 +5,7 @@
  
 Det siste halvåret har jeg gått på Kodehode, hvor jeg har lært om frontend development, og har lekt meg litt med backend. For øyeblikket, er jeg mest interessert i CSS, Node og JS, og er i prosessen av å fordype meg mer innen TypeScript, Tailwind og SCSS. Design er gøy! 😄
 <hr>
-Tidligere, har jeg jobbet som support i Elkjøp, hvor jeg hjalp med å sette opp pcer, telefoner, nettbrett (osv), samt å reparere opp i software og litt hardware for kunder. Personlig, har jeg vært interessert i PC siden 90-tallet, og har fulgt utviklingen nøye på en personlig basis. 
+Tidligere, har jeg jobbet som support i Elkjøp, hvor jeg hjalp med å sette opp pcer, telefoner, nettbrett (osv), samt å reparere opp i software og litt hardware for kunder. Personlig, har jeg vært interessert i PC siden 90-tallet, og har fulgt utviklingen nøye på en personlig basis.
 
 <!--
 **KaiM-B04/Kaim-b04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
