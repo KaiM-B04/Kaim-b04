@@ -1,7 +1,4 @@
 <svg fill="none" version="1.0" viewBox="0 0 300 250" width="300" height="250" xmlns="http://www.w3.org/2000/svg">
-    <foreginObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-
                      <g transform="translate(0.000000,239.000000) scale(0.100000,-0.100000)"
                      fill="#000000" stroke="none">
                      <path d="M1017 2240 c-63 -16 -115 -48 -174 -107 -61 -62 -78 -93 -88 -168 -4
@@ -100,6 +97,4 @@
                      <path d="M645 10 c3 -5 8 -10 11 -10 2 0 4 5 4 10 0 6 -5 10 -11 10 -5 0 -7
                      -4 -4 -10z"/>
                      </g>
-  </div>
- </foreginObject>
 </svg>
