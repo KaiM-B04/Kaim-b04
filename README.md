@@ -1,7 +1,7 @@
 <h1>Hei og velkommen!</h1>
 
 <h2>Mitt navn er Kai, og jeg er en ivrig og kreativ koder, som elsker å lære nye ting!</h2>
-<img align='left' src="profilepic-color-thumb.webp" height="150vh">
+<img align='left' src="svgcontainer.svg" height="150vh">
  
 Det siste halvåret har jeg gått på Kodehode, hvor jeg har lært om frontend development, og har lekt meg litt med backend. For øyeblikket, er jeg mest interessert i CSS, Node og JS, og er i prosessen av å fordype meg mer innen TypeScript, Tailwind og SCSS. Design er gøy! 😄
 <hr>
