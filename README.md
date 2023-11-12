@@ -18,5 +18,5 @@ const Kai = {
     gender: "he/him",
     origin: ["Arts and crafts", "creative writing", "tech support"],
     hobbies: ["Gaming", "Writing", "Drawing", "Tabletop RPG"],
-    
+    }
     
