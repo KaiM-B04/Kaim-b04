@@ -7,10 +7,10 @@
 
 				@keyframes backgroundChange {
 					  0% {
-					    background-position: 0% 25%;
+					    background-position: 0% 50%;
 					  }
 					  100% {
-					    background-position: 100% 25%;
+					    background-position: 100% 50%;
 					  }
 				}
 				
@@ -20,7 +20,7 @@
 					justify-content: start;
 					width: 100%;
 					height: 100%;
-					background: linear-gradient(140deg, #fc5c7d, #6a82fb, #05dfd7);
+					background: linear-gradient(140deg, #1f6f7d, #5e1010);
 					background-size: 200% 100%;
 					border-radius: 1rem;
 					animation: backgroundChange 5s linear infinite;
