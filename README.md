@@ -13,7 +13,7 @@ På privaten driver jeg en del med å skrive historier, tegning og naturligvis g
 ```javascript 
 const Kai = {
     name: "Shortstack",
-    level: 38,
+    level: 39,
     class:"apprentice",
     gender: "he/him",
     origin: ["Arts and crafts", "creative writing", "tech support"],
@@ -21,4 +21,4 @@ const Kai = {
     };
 ```
 
-![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaim-b04&show_icons=true&theme=dracula)
+![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaim-b04&show_icons=true&theme=dark)
