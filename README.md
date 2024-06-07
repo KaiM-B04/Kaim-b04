@@ -19,4 +19,5 @@ const Kai = {
     origin: ["Arts and crafts", "creative writing", "tech support"],
     hobbies: ["Gaming", "Writing", "Drawing", "Tabletop RPG"],
     }
-    
+
+![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaim-b04&show_icons=true&theme=dracula)
